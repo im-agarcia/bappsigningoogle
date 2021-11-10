@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SmokeTest</string>
+    <string name="web_client_id">671349006257-d3ejv3j7hvqnqeknl482hqf3443qld67.apps.googleusercontent.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_whit_google">Sign In With Google</string>
+    <string name="band_app_sign_in">Log In</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="dont_have_account">Don´t have an Account?</string>
+
+    //Basics
+    <string name="login">Log In</string>
+    <string name="user">User</string>
+    <string name="type_email">Type your e-mail</string>
+    <string name="recover_password">Recover password</string>
+    <string name="repeat_password">Repeat your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="lesta_play">Let´s play!</string>
+    <string name="lastname">Lastname</string>
+    <string name="bandapp">BandApp®</string>
+    <string name="group_name">Group Name</string>
+
+    //dummy
+    <string name="maria">#Maria</string>
+
+    //Ham
+    <string name="friends">Friends</string>
+    <string name="booking">Bookings</string>
+    <string name="groups">Groups</string>
+
+
+    //My Profile
+    <string name="my_profile">My Profile</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="email">E-mail</string>
+    <string name="bio">Bio</string>
+    <string name="instruments">Instruments</string>
+    <string name="password">Password</string>
+
+    //Bookings
+    <string name="upcoming_reunions">Upcoming reunions</string>
+
+    //Friends
+
+    //Search Buddies
+    <string name="search_buddies">Search Buddies</string>
+    <string name="my_location">My location</string>
+    <string name="type_city">Type a city</string>
+    <string name="filter_by_instrument">Filter by Instrument</string>
+
+
+    //Search Rooms
+    <string name="search_rooms">Search Rooms</string>
+
+    //Instruments
+    <string name="guitar">Guitar</string>
+    <string name="bass_guitar">Bass Guitar</string>
+    <string name="drums">Drums</string>
+    <string name="piano">Piano</string>
+    <string name="voice">Voice</string>
+    <string name="saxophone">Saxo</string>
+
+    //Friends
+    <string name="chat">Chat</string>
+    <string name="add_to_group">Add to Group</string>
+</resources>

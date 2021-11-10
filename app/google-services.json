@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671349006257",
+    "project_id": "bandapp-3d9b3",
+    "storage_bucket": "bandapp-3d9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671349006257:android:c17224619639f586af6790",
+        "android_client_info": {
+          "package_name": "com.example.smoketest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671349006257-26abtlpf2th7d0eb1h53s5itfuecns0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smoketest",
+            "certificate_hash": "b4206ebd7d4ace1bbc2a34faffbabaa22417453e"
+          }
+        },
+        {
+          "client_id": "671349006257-d3ejv3j7hvqnqeknl482hqf3443qld67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBfU0Lyh-h5Efrbk21tyiMW4bxvLho7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671349006257-d3ejv3j7hvqnqeknl482hqf3443qld67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
