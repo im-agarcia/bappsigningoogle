@@ -13,11 +13,23 @@
         <action
             android:id="@+id/action_mainFragment_to_menuActivity"
             app:destination="@id/menuActivity" />
+        <action
+            android:id="@+id/action_mainFragment_to_pwdResetFragment"
+            app:destination="@id/pwdResetFragment" />
     </fragment>
     <activity
         android:id="@+id/menuActivity"
         android:name="com.example.smoketest.activities.MenuActivity"
         android:label="activity_menu"
         tools:layout="@layout/activity_menu" />
+    <fragment
+        android:id="@+id/pwdResetFragment"
+        android:name="com.example.smoketest.fragments.main.PwdResetFragment"
+        android:label="fragment_pwd_reset"
+        tools:layout="@layout/fragment_pwd_reset" >
+        <action
+            android:id="@+id/action_pwdResetFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
 
 </navigation>

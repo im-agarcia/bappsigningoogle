@@ -64,15 +64,15 @@ class MainFragment : Fragment() {
             //si quiero poner una barra de progreso puedo poner un binding.objeto.visibility = View.VISIBLE
             signIn()
         }
-
         binding.btnLoginBandapp.setOnClickListener{
-            Snackbar.make(
-                binding.mainFragmentLayout,
-                "Aun no se puede",
-                Snackbar.LENGTH_SHORT
-            ).show()
+        }
+
+        binding.forgotPassword.setOnClickListener{
+            findNavController().navigate(R.id.action_mainFragment_to_pwdResetFragment)
         }
     }
+
+
 
     private fun signIn() {
         val intent = googleSignInClient.signInIntent
